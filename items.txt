@@ -1,0 +1,1 @@
+"items = ['RFID_Scanner', 'Thermal_Printer']" 
