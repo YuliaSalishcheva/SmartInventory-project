@@ -1,1 +1,1 @@
-"print('SmartInventory System v0.1: Starting...')" 
+"print('SmartInventory v1.0: READY')" 
